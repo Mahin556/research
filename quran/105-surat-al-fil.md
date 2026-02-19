@@ -1,7 +1,7 @@
 ### Surah Al-Fil (105)
 
 ---
-[hello](/namaz/jummah)
+[hello](/namaz/jummah.md)
 ### Arabic Text
 
 ```
