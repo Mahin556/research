@@ -1,7 +1,7 @@
 ### Surah Al-Fil (105)
 
 ---
-[[/namaz/jummah]]
+
 ### Arabic Text
 
 ```
@@ -22,7 +22,7 @@
 ### English Translation
 
 1. Have you not considered how your Lord dealt with the companions of the elephant?
-2. Did He not make their plan nto misguidance?
+2. Did He not make their plan not misguidance?
 3. And He sent against them birds in flocks,
 4. Striking them with stones of hard clay,
 5. And He made them like eaten straw.
