@@ -1,7 +1,7 @@
 ### Surah Al-Fil (105)
 
 ---
-
+[[jummah]]
 ### Arabic Text
 
 ```
