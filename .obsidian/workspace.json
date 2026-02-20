@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quran/105-surat-al-fil.md",
+                "file": "quran/106-surah-quraysh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "105-surat-al-fil"
+              "title": "106-surah-quraysh"
             }
           }
         ],
@@ -281,8 +281,8 @@
   },
   "active": "45cdb70fe88b5606",
   "lastOpenFiles": [
-    "quran/106-surah-quraysh.md",
     "quran/105-surat-al-fil.md",
+    "quran/106-surah-quraysh.md",
     "namaz/taraweeh.md",
     "namaz/janaze.md",
     "namaz/magrib.md",

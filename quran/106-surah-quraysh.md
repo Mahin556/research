@@ -58,14 +58,14 @@
 
 ### Haashiyah
 
-①  
-"لِإِيلَافِ" ka matlab hai maanoos kar dena ya aadat daal dena. Allah Ta‘aala ne Quraysh ko tijarat ke safaron ki aisi aadat aur asaani ata farmaayi ke woh pur-aman tareeqay se Yemen (sardi ka safar) aur Shaam (garmi ka safar) jaate thay.
+```md
 
-②  
-Is surah ka ta‘alluq Surah Al-Fil se hai. Allah Ta‘aala ne Abraha aur us ke lashkar ko halaak kar ke Quraysh ko aman diya, taa-ke unki tijarat aur zindagi mehfooz rahe. Itni badi ne‘maton ke baad un par laazim hai ke woh sirf Allah hi ki ibaadat karein.
+① **لِإِيلَافِ** (Li-ilaaf) ka matlab hai maanoos kar dena ya aadat daal dena. Allah Ta‘aala ne Quraysh ko tijarat ke safaron ki aisi aadat aur asaani ata farmaayi ke woh pur-aman tareeqay se Yemen (sardi ka safar) aur Shaam (garmi ka safar) jaate thay.
 
+② Is surah ka ta‘alluq Surah Al-Fil se hai. Allah Ta‘aala ne Abraha aur us ke lashkar ko halaak kar ke Quraysh ko aman diya, taa-ke unki tijarat aur zindagi mehfooz rahe. Itni badi ne‘maton ke baad un par laazim hai ke woh sirf Allah hi ki ibaadat karein.
+```
+ 
 ---
-
 ### Information
 
 - **Number of Verses:** 4
