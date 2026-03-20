@@ -1,3 +1,9 @@
+---
+title: Eid Ki Namaz Ka Tareeka
+category: Namaz
+tags: [Namaz, Islam]
+---
+
 • **Eid Namaz** is a special prayer performed by Muslims on the two Islamic festivals:
 - **Eid al-Fitr** – celebrated after Ramadan 
 - **Eid al-Adha** – celebrated during Dhul Hijjah
