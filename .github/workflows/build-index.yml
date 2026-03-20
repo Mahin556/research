@@ -17,11 +17,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # full history needed for git log dates
 
       - name: Rename new files and build INDEX.md
         run: |
           python3 << 'PYEOF'
-          import os, re
+          import os, re, subprocess
           from collections import defaultdict
 
           SKIP = {"INDEX.md", "README.md"}
@@ -31,6 +33,16 @@ jobs:
             "Seerah", "Quran", "Namaz", "Duas", "Eschatology",
             "History", "Others", "Fitness", "Strategies", "Personal"
           ]
+
+          def git_last_modified(filepath):
+            """Get the date of the last commit that touched this file."""
+            result = subprocess.run(
+              ["git", "log", "-1", "--format=%ai", "--", filepath],
+              capture_output=True, text=True
+            )
+            raw = result.stdout.strip()
+            date = raw[:16] if raw else "—"
+            return date if date else "—"
 
           def parse_frontmatter(filepath):
             with open(filepath, encoding="utf-8", errors="ignore") as f:
@@ -43,13 +55,11 @@ jobs:
             fm = match.group(1)
             title    = re.search(r"^title\s*:\s*(.+)$",    fm, re.MULTILINE)
             category = re.search(r"^category\s*:\s*(.+)$", fm, re.MULTILINE)
-            tags     = re.search(r"^tags\s*:\s*\[(.+)\]$", fm, re.MULTILINE)
             if not title or not category:
               return None
             return {
               "title":    title.group(1).strip(),
               "category": category.group(1).strip(),
-              "tags":     [t.strip() for t in tags.group(1).split(",")] if tags else [],
             }
 
           # Step 1: find next available note-XXX number
@@ -94,6 +104,7 @@ jobs:
             note = parse_frontmatter(fname)
             if note:
               note["file"] = fname
+              note["date"] = git_last_modified(fname)
               buckets[note["category"]].append(note)
             else:
               no_frontmatter.append(fname)
@@ -107,7 +118,7 @@ jobs:
           lines = []
           lines.append("# Research Notes")
           lines.append("")
-          lines.append("> Last updated: __DATE__  ")
+          lines.append("> Last updated: __DATE__")
           lines.append(f"> {total} notes indexed")
           lines.append("")
           lines.append("---")
@@ -121,11 +132,7 @@ jobs:
             lines.append(f"## {cat} ({len(notes)})")
             lines.append("")
             for note in notes:
-              tags_str = " · ".join(note["tags"])
-              entry = f"- [{note['title']}]({note['file']}) \`{note['category']}\`"
-              if tags_str:
-                entry += f" · {tags_str}"
-              lines.append(entry)
+              lines.append(f"- [{note['title']}]({note['file']}) · {note['date']}")
             lines.append("")
 
           if no_frontmatter:
