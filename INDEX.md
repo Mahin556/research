@@ -1,13 +1,17 @@
 # Research Notes
 
-> Last updated: 2026-03-20 17:22 UTC  
-> 1 notes indexed
+> Last updated: 2026-03-20 17:47 UTC
+> 2 notes indexed
 
 ---
 
+## Quran (1)
+
+- [Surah Al-Fil (105)](note-002.md) · 2026-03-20 23:16
+
 ## Namaz (1)
 
-- [Eid Ki Namaz Ka Tareeka](note-001.md) \`Namaz\` · Namaz · Islam
+- [Eid Ki Namaz Ka Tareeka](note-001.md) · 2026-03-20 17:22
 
 ## Unfiled
 
@@ -25,7 +29,6 @@
 - [monotheism.md](monotheism.md)
 - [nafl.md](nafl.md)
 - [niyat.md](niyat.md)
-- [note-002.md](note-002.md)
 - [note-003.md](note-003.md)
 - [note-004.md](note-004.md)
 - [note-005.md](note-005.md)
