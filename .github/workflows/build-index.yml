@@ -3,7 +3,7 @@ name: Build Research Index
 on:
   push:
     paths:
-      - '*.md'
+      - 'notes/*.md'
       - '!INDEX.md'
       - '!README.md'
   workflow_dispatch:
@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # full history needed for git log dates
+          fetch-depth: 0
 
       - name: Rename new files and build INDEX.md
         run: |
@@ -26,7 +26,8 @@ jobs:
           import os, re, subprocess
           from collections import defaultdict
 
-          SKIP = {"INDEX.md", "README.md"}
+          NOTES_DIR   = "notes"
+          SKIP        = {"INDEX.md", "README.md"}
           NOTE_PATTERN = re.compile(r"^note-\d{3}\.md$")
 
           CATEGORY_ORDER = [
@@ -35,14 +36,12 @@ jobs:
           ]
 
           def git_last_modified(filepath):
-            """Get the date of the last commit that touched this file."""
             result = subprocess.run(
               ["git", "log", "-1", "--format=%ai", "--", filepath],
               capture_output=True, text=True
             )
             raw = result.stdout.strip()
-            date = raw[:16] if raw else "—"
-            return date if date else "—"
+            return raw[:16] if raw else "—"
 
           def parse_frontmatter(filepath):
             with open(filepath, encoding="utf-8", errors="ignore") as f:
@@ -64,7 +63,7 @@ jobs:
 
           # Step 1: find next available note-XXX number
           existing_ids = set()
-          for f in os.listdir("."):
+          for f in os.listdir(NOTES_DIR):
             if NOTE_PATTERN.match(f):
               num = int(f.replace("note-", "").replace(".md", ""))
               existing_ids.add(num)
@@ -78,33 +77,36 @@ jobs:
 
           # Step 2: rename any non-note-XXX file that has valid frontmatter
           renamed = []
-          for fname in sorted(os.listdir("."), key=str.lower):
+          for fname in sorted(os.listdir(NOTES_DIR), key=str.lower):
             if not fname.endswith(".md"):
               continue
             if fname in SKIP or NOTE_PATTERN.match(fname):
               continue
-            if not os.path.isfile(fname):
+            full = os.path.join(NOTES_DIR, fname)
+            if not os.path.isfile(full):
               continue
-            note = parse_frontmatter(fname)
+            note = parse_frontmatter(full)
             if note:
               new_name = f"note-{next_id():03d}.md"
-              os.rename(fname, new_name)
+              new_full = os.path.join(NOTES_DIR, new_name)
+              os.rename(full, new_full)
               print(f"  renamed: {fname} -> {new_name}")
               renamed.append((fname, new_name))
 
-          # Step 3: scan all note-XXX.md files and build index
+          # Step 3: scan notes/ and build index
           buckets = defaultdict(list)
           no_frontmatter = []
 
-          for fname in sorted(os.listdir("."), key=str.lower):
+          for fname in sorted(os.listdir(NOTES_DIR), key=str.lower):
             if not fname.endswith(".md") or fname in SKIP:
               continue
-            if not os.path.isfile(fname):
+            full = os.path.join(NOTES_DIR, fname)
+            if not os.path.isfile(full):
               continue
-            note = parse_frontmatter(fname)
+            note = parse_frontmatter(full)
             if note:
-              note["file"] = fname
-              note["date"] = git_last_modified(fname)
+              note["file"] = f"notes/{fname}"
+              note["date"] = git_last_modified(f"notes/{fname}")
               buckets[note["category"]].append(note)
             else:
               no_frontmatter.append(fname)
@@ -114,7 +116,7 @@ jobs:
 
           total = sum(len(v) for v in buckets.values())
 
-          # Step 4: write INDEX.md
+          # Step 4: write INDEX.md at repo root
           lines = []
           lines.append("# Research Notes")
           lines.append("")
@@ -141,7 +143,7 @@ jobs:
             lines.append("> Add frontmatter to categorize these notes.")
             lines.append("")
             for fname in sorted(no_frontmatter):
-              lines.append(f"- [{fname}]({fname})")
+              lines.append(f"- [notes/{fname}](notes/{fname})")
             lines.append("")
 
           with open("INDEX.md", "w", encoding="utf-8") as f:
