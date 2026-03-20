@@ -1,9 +1,13 @@
 # Research Notes
 
-> Last updated: 2026-03-20 17:20 UTC  
-> 0 notes indexed
+> Last updated: 2026-03-20 17:22 UTC  
+> 1 notes indexed
 
 ---
+
+## Namaz (1)
+
+- [Eid Ki Namaz Ka Tareeka](note-001.md) \`Namaz\` · Namaz · Islam
 
 ## Unfiled
 
@@ -11,7 +15,6 @@
 
 - [Exercise.md](Exercise.md)
 - [The-Scariest-Level-of-Discipline-You’ve-Ever-Seen.md](The-Scariest-Level-of-Discipline-You’ve-Ever-Seen.md)
-- [eid.md](eid.md)
 - [fazar.md](fazar.md)
 - [haashiyah.md](haashiyah.md)
 - [isha.md](isha.md)
