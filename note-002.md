@@ -1,3 +1,10 @@
+---
+title: Surah Al-Fil (105)
+category: Quran
+tags: [Quran, Islam]
+---
+
+
 ### Surah Al-Fil (105)
 
 ---
