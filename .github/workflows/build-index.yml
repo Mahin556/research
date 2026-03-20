@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'notes/*.md'
-      - '!INDEX.md'
+      - '!notes/INDEX.md'
       - '!README.md'
   workflow_dispatch:
 
@@ -41,7 +41,8 @@ jobs:
               capture_output=True, text=True
             )
             raw = result.stdout.strip()
-            return raw[:16] if raw else "—"
+            from datetime import datetime
+            return raw[:16] if raw else datetime.utcnow().strftime("%Y-%m-%d %H:%M")
 
           def parse_frontmatter(filepath):
             with open(filepath, encoding="utf-8", errors="ignore") as f:
