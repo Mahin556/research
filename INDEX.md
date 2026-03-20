@@ -1,7 +1,7 @@
 # Research Notes
 
-> Last updated: 2026-03-20 18:05 UTC
-> 11 notes indexed
+> Last updated: 2026-03-20 18:16 UTC
+> 18 notes indexed
 
 ---
 
@@ -18,9 +18,16 @@
 - [Surah An-Nasr (110)](notes/note-007.md) · 2026-03-20 23:27
 - [Surah Quraysh (106)](notes/note-003.md) · 2026-03-20 23:27
 
-## Namaz (1)
+## Namaz (8)
 
 - [Eid Ki Namaz Ka Tareeka](notes/note-001.md) · 2026-03-20 23:27
+- [Fazar Namaz](notes/note-013.md) · —
+- [Isha ki Namaz](notes/note-015.md) · —
+- [Janaze ki Namaz](notes/note-016.md) · —
+- [Jummah ki Namaz](notes/note-017.md) · —
+- [Maghrib ki Namaz](notes/note-018.md) · —
+- [Taraweeh ki Namaz](notes/note-019.md) · —
+- [Zohar ki Namaz](notes/note-020.md) · —
 
 ## Unfiled
 
