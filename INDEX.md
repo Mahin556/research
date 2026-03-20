@@ -1,7 +1,7 @@
 # Research Notes
 
-> Last updated: 2026-03-20 18:16 UTC
-> 18 notes indexed
+> Last updated: 2026-03-20 18:25 UTC
+> 19 notes indexed
 
 ---
 
@@ -21,13 +21,17 @@
 ## Namaz (8)
 
 - [Eid Ki Namaz Ka Tareeka](notes/note-001.md) · 2026-03-20 23:27
-- [Fazar Namaz](notes/note-013.md) · —
-- [Isha ki Namaz](notes/note-015.md) · —
-- [Janaze ki Namaz](notes/note-016.md) · —
-- [Jummah ki Namaz](notes/note-017.md) · —
-- [Maghrib ki Namaz](notes/note-018.md) · —
-- [Taraweeh ki Namaz](notes/note-019.md) · —
-- [Zohar ki Namaz](notes/note-020.md) · —
+- [Fazar Namaz](notes/note-013.md) · 2026-03-20 18:16
+- [Isha ki Namaz](notes/note-015.md) · 2026-03-20 18:16
+- [Janaze ki Namaz](notes/note-016.md) · 2026-03-20 18:16
+- [Jummah ki Namaz](notes/note-017.md) · 2026-03-20 18:16
+- [Maghrib ki Namaz](notes/note-018.md) · 2026-03-20 18:16
+- [Taraweeh ki Namaz](notes/note-019.md) · 2026-03-20 18:16
+- [Zohar ki Namaz](notes/note-020.md) · 2026-03-20 18:16
+
+## Others (1)
+
+- [Monotheism](notes/note-021.md) · 2026-03-20 18:25
 
 ## Unfiled
 
