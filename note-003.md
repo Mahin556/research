@@ -1,3 +1,10 @@
+---
+title: Surah Quraysh (106)
+category: Quran
+tags: [Quran, Islam]
+---
+
+
 ### Surah Quraysh (106)
 
 ---

@@ -1,6 +1,9 @@
-Here is a comprehensive breakdown of **Surah Al-Ikhlas (Chapter 112) , including its meaning in English, Hinglish (Roman Urdu), Urdu, Tafseer (commentary), and metadata, based on the provided image files.
-
 ---
+title: Surah Al-Ikhlas (112)
+category: Quran
+tags: [Quran, Islam]
+---
+
 
 ### Metadata
 - **Surah Name:** Al-Ikhlas (الإخلاص)

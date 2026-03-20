@@ -1,3 +1,9 @@
+---
+title: Surah Al-Kawthar (108)
+category: Quran
+tags: [Quran, Islam]
+---
+
 ### Surah Al-Kawthar (108)
 
 ---

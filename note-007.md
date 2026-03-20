@@ -1,3 +1,9 @@
+---
+title: Surah An-Nasr (110)
+category: Quran
+tags: [Quran, Islam]
+---
+
 ### Surah An-Nasr (110)
 
 ---

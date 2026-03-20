@@ -1,3 +1,9 @@
+---
+title: Surah Al-Ma'un (107)
+category: Quran
+tags: [Quran, Islam]
+---
+
 ### Surah Al-Ma'un (107)
 
 ---

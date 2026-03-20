@@ -1,3 +1,10 @@
+---
+title: Surah An-Naas (114)
+category: Quran
+tags: [Quran, Islam]
+---
+
+
 ### Metadata
 - **Surah Name:** An-Naas (الناس)
 - **Surah Number:** 114

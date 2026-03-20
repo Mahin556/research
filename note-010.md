@@ -1,3 +1,9 @@
+---
+title: Surah Al-Falaq (113)
+category: Quran
+tags: [Quran, Islam]
+---
+
 ### Metadata
 - **Surah Name:** Al-Falaq (الفلق)
 - **Surah Number:** 113

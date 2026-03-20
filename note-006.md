@@ -1,3 +1,9 @@
+---
+title: Surah Al-Kafirun (109)
+category: Quran
+tags: [Quran, Islam]
+---
+
 ### Surah Al-Kafirun (109)
 
 ---
