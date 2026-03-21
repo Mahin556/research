@@ -6,7 +6,7 @@ tags: [Fitness]
 
 ---
 
-### **Crunches** *
+### **Crunches**
 
 ![Crunches](https://i.pinimg.com/originals/45/15/9a/45159a4b3dd36bae013866d74edf208e.gif)
 
@@ -18,7 +18,7 @@ tags: [Fitness]
 
 ---
 
-### **Mountain climbers** *
+### **Mountain climbers**
 
 ![Mountain Climbers](/images/1827be178c019b1dc6f8a8d8b4a7b0b8.gif)
 
@@ -30,13 +30,13 @@ tags: [Fitness]
 
 ---
 
-### **Side plank** *
+### **Side plank**
 
 ![Side Plank](https://cdn-life.dailyburn.com/life/wp-content/uploads/2022/02/09234326/ezgif.com-gif-maker-copy.gif)
 
 ---
 
-### **Leg raises** *
+### **Leg raises**
 
 ![Leg Raises](https://cdn.jefit.com/assets/img/exercises/gifs/44.gif)
 
