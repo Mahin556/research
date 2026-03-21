@@ -42,11 +42,12 @@ tags: [Goals, Fitness, Career, Islam]
 - [ ] Start freelancing as a side business
 - [ ] Save 5 thousand a month
 - [ ] Start a job
-
-#### Personal & Social
 - [ ] Post weekly on LinkedIn
 - [ ] Optimize LinkedIn profile
-- [ ] Hindi fluency
+
+#### Personal & Social
+- [ ] Urdu fluency
+- [ ] Be mentally strong
 
 #### Islam
 - [ ] Islam (Quran + other)
@@ -75,6 +76,7 @@ tags: [Goals, Fitness, Career, Islam]
 #### Personal & Social
 - [ ] Post weekly on LinkedIn
 - [ ] Separate room
+- [ ] Learn car driving
 
 #### Islam
 - [ ] Islam (Quran + other)
@@ -91,6 +93,7 @@ tags: [Goals, Fitness, Career, Islam]
 - [ ] Running 3 days/week
 - [ ] Calisthenics 3 days/week
 - [ ] Kegel
+- [ ] Swimming (summers)
 - [ ] P* Stretching Exercise
 
 #### Career & Finance
@@ -100,8 +103,6 @@ tags: [Goals, Fitness, Career, Islam]
 - [ ] Computer setup
 
 #### Personal & Lifestyle
-- [ ] Learn swimming (summers)
-- [ ] Learn car driving
 - [ ] Beautiful bedroom
 - [ ] Beautiful office room
 - [ ] Post weekly on LinkedIn
@@ -132,7 +133,7 @@ tags: [Goals, Fitness, Career, Islam]
 - [ ] All Namaz
 
 #### Language
-- [ ] English
+- [ ] Arabic
 
 ---
 
