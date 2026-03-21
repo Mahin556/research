@@ -20,7 +20,7 @@ tags: [Fitness]
 
 ### **Mountain climbers**
 
-![Mountain Climbers](/images/32a7d00d6123dd416e459ba67cf1691b.gif)
+![Mountain Climbers](https://i.pinimg.com/originals/18/27/be/1827be178c019b1dc6f8a8d8b4a7b0b8.gif)
 
 ---
 
