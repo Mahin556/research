@@ -1,6 +1,6 @@
 # Research Notes
 
-> Last updated: 2026-03-21 12:21 UTC
+> Last updated: 2026-03-21 12:27 UTC
 > 22 notes indexed
 
 ---
@@ -35,7 +35,7 @@
 
 ## Fitness (3)
 
-- [Abs Exercises](notes/note-023.md) · 2026-03-21 17:51
+- [Abs Exercises](notes/note-023.md) · 2026-03-21 17:57
 - [Back Exercises](notes/note-024.md) · 2026-03-21 09:19
 - [Chest Exercises](notes/note-022.md) · 2026-03-21 08:48
 
