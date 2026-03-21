@@ -6,7 +6,7 @@ tags: [Fitness]
 
 ---
 
-### **Crunches**
+### <span style="color: red;">**Crunches**</span>
 
 ![Crunches](https://i.pinimg.com/originals/45/15/9a/45159a4b3dd36bae013866d74edf208e.gif)
 
@@ -20,7 +20,7 @@ tags: [Fitness]
 
 ### **Mountain climbers**
 
-![Mountain Climbers](https://i.pinimg.com/originals/18/27/be/1827be178c019b1dc6f8a8d8b4a7b0b8.gif)
+![Mountain Climbers](/images/1827be178c019b1dc6f8a8d8b4a7b0b8.gif)
 
 ---
 
