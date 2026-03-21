@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'notes/*.md'
+      - 'notes/*.excalidraw'
       - '!notes/INDEX.md'
       - '!README.md'
   workflow_dispatch:
