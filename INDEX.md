@@ -1,7 +1,7 @@
 # Research Notes
 
-> Last updated: 2026-03-21 15:03 UTC
-> 22 notes indexed
+> Last updated: 2026-03-21 15:24 UTC
+> 23 notes indexed
 
 ---
 
@@ -39,10 +39,13 @@
 - [Back Exercises](notes/note-024.md) · 2026-03-21 09:19
 - [Chest Exercises](notes/note-022.md) · 2026-03-21 08:48
 
+## Personal (1)
+
+- [Life Goals & 5-Year Plan](notes/note-025.md) · 2026-03-21 15:24
+
 ## Unfiled
 
 > Add frontmatter to categorize these notes.
 
-- [notes/Goals.md](notes/Goals.md)
 - [notes/note-012.md](notes/note-012.md)
 - [notes/note-014.md](notes/note-014.md)
