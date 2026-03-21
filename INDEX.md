@@ -1,7 +1,7 @@
 # Research Notes
 
-> Last updated: 2026-03-21 08:48 UTC
-> 20 notes indexed
+> Last updated: 2026-03-21 09:19 UTC
+> 22 notes indexed
 
 ---
 
@@ -33,8 +33,10 @@
 
 - [Monotheism](notes/note-021.md) · 2026-03-20 18:25
 
-## Fitness (1)
+## Fitness (3)
 
+- [Abs Exercises](notes/note-023.md) · 2026-03-21 09:19
+- [Back Exercises](notes/note-024.md) · 2026-03-21 09:19
 - [Chest Exercises](notes/note-022.md) · 2026-03-21 08:48
 
 ## Unfiled
