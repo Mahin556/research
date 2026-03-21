@@ -26,7 +26,7 @@ tags: [Fitness]
 
 ### **Mountain climbers (variation)**
 
-![Mountain Climbers Variation](https://i.pinimg.com/originals/32/a7/d0/32a7d00d6123dd416e459ba67cf1691b.gif)
+![Mountain Climbers Variation](/images/32a7d00d6123dd416e459ba67cf1691b.gif)
 
 ---
 
