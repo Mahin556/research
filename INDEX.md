@@ -1,6 +1,6 @@
 # Research Notes
 
-> Last updated: 2026-03-21 12:27 UTC
+> Last updated: 2026-03-21 15:03 UTC
 > 22 notes indexed
 
 ---
@@ -43,5 +43,6 @@
 
 > Add frontmatter to categorize these notes.
 
+- [notes/Goals.md](notes/Goals.md)
 - [notes/note-012.md](notes/note-012.md)
 - [notes/note-014.md](notes/note-014.md)
