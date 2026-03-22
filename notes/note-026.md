@@ -1,6 +1,6 @@
 ---
 title: The Story of Abraha
-category: Islam
+category: Battle
 tags: [Islam, Story, History]
 ---
 
