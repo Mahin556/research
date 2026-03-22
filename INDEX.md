@@ -1,7 +1,7 @@
 # Research Notes
 
-> Last updated: 2026-03-22 17:09 UTC
-> 24 notes indexed
+> Last updated: 2026-03-22 17:26 UTC
+> 29 notes indexed
 
 ---
 
@@ -43,9 +43,14 @@
 
 - [Life Goals & 5-Year Plan](notes/note-025.md) · 2026-03-22 19:41
 
-## Battle (1)
+## Battle (6)
 
+- [The Battle of Badr](notes/note-027.md) · 2026-03-22 17:26
+- [The Battle of Khaybar](notes/note-031.md) · 2026-03-22 17:26
+- [The Battle of the Trench](notes/note-029.md) · 2026-03-22 17:26
+- [The Battle of Uhud](notes/note-028.md) · 2026-03-22 17:26
 - [The Story of Abraha](notes/note-026.md) · 2026-03-22 22:38
+- [The Treaty of Hudaybiyyah & Dawah to the World](notes/note-030.md) · 2026-03-22 17:26
 
 ## Unfiled
 
