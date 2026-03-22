@@ -31,30 +31,30 @@ tags: [Goals, Fitness, Career, Islam]
 ### 1st Year (2026)
 
 #### Fitness
-- [ ] Lose weight by 10 KG → target **68 KG**
-- [ ] Running 3 days/week
-- [ ] Calisthenics 3 days/week
+- [ ] Lose weight by 10 KG → target **68 KG** *
+- [ ] Running 3 days/week *
+- [ ] Calisthenics 3 days/week *
 
 #### Career & Finance
-- [ ] Projects (DevOps and Cloud)
+- [ ] Projects (DevOps and Cloud) *
 - [ ] CKA + CKAD + AWS Solution Architect (80 thousand)
-- [ ] Required studies for DevOps and Cloud
+- [ ] Required studies for DevOps and Cloud *
 - [ ] Start freelancing as a side business
 - [ ] Save 5 thousand a month
-- [ ] Start a job
-- [ ] Post weekly on LinkedIn
-- [ ] Optimize LinkedIn profile
+- [ ] Start a job *
+- [ ] Post weekly on LinkedIn *
+- [ ] Optimize LinkedIn profile *
 
 #### Personal & Social
-- [ ] Urdu fluency
+- [ ] Urdu fluency *
 - [ ] Be mentally strong
 
 #### Islam
-- [ ] Islam (Quran + other)
-- [ ] All Namaz
+- [ ] Islam (Quran + other) *
+- [ ] All Namaz *
 
 #### Language
-- [ ] English
+- [ ] English *
 
 ---
 
