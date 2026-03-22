@@ -1,7 +1,7 @@
 # Research Notes
 
-> Last updated: 2026-03-22 14:11 UTC
-> 23 notes indexed
+> Last updated: 2026-03-22 17:07 UTC
+> 24 notes indexed
 
 ---
 
@@ -42,6 +42,10 @@
 ## Personal (1)
 
 - [Life Goals & 5-Year Plan](notes/note-025.md) · 2026-03-22 19:41
+
+## Islam (1)
+
+- [The Story of Abraha](notes/note-026.md) · 2026-03-22 17:07
 
 ## Unfiled
 
