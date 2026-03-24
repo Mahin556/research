@@ -1,7 +1,7 @@
 # Research Notes
 
-> Last updated: 2026-03-22 17:26 UTC
-> 29 notes indexed
+> Last updated: 2026-03-24 09:54 UTC
+> 30 notes indexed
 
 ---
 
@@ -43,7 +43,7 @@
 
 - [Life Goals & 5-Year Plan](notes/note-025.md) · 2026-03-22 19:41
 
-## Battle (6)
+## Battle (7)
 
 - [The Battle of Badr](notes/note-027.md) · 2026-03-22 17:26
 - [The Battle of Khaybar](notes/note-031.md) · 2026-03-22 17:26
@@ -51,6 +51,7 @@
 - [The Battle of Uhud](notes/note-028.md) · 2026-03-22 17:26
 - [The Story of Abraha](notes/note-026.md) · 2026-03-22 22:38
 - [The Treaty of Hudaybiyyah & Dawah to the World](notes/note-030.md) · 2026-03-22 17:26
+- [Why Were Jews in Medina?](notes/note-032.md) · 2026-03-24 09:54
 
 ## Unfiled
 
