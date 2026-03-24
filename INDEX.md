@@ -1,7 +1,7 @@
 # Research Notes
 
-> Last updated: 2026-03-24 11:20 UTC
-> 33 notes indexed
+> Last updated: 2026-03-24 15:10 UTC
+> 34 notes indexed
 
 ---
 
@@ -55,6 +55,10 @@
 - [The Story of Abraha](notes/note-026.md) · 2026-03-22 22:38
 - [The Treaty of Hudaybiyyah & Dawah to the World](notes/note-030.md) · 2026-03-22 17:26
 - [Why Were Jews in Medina?](notes/note-032.md) · 2026-03-24 09:54
+
+## Religious History (1)
+
+- [The Kaaba, Mecca, and Its Historical and Religious Significance](notes/note-036.md) · 2026-03-24 15:10
 
 ## Unfiled
 
