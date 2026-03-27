@@ -1,11 +1,11 @@
 # Research Notes
 
-> Last updated: 2026-03-27 12:20 UTC
+> Last updated: 2026-03-27 12:21 UTC
 > 37 notes indexed
 
 ---
 
-## Islam (30)
+## Islam (32)
 
 - [Asar Namaz](notes/note-014.md) · 2026-03-27 17:49
 - [Eid Ki Namaz Ka Tareeka](notes/note-001.md) · 2026-03-27 17:49
@@ -26,11 +26,13 @@
 - [Surah Quraysh (106)](notes/note-003.md) · 2026-03-27 17:49
 - [Taraweeh ki Namaz](notes/note-019.md) · 2026-03-27 17:49
 - [The Battle of Badr](notes/note-027.md) · 2026-03-27 17:49
+- [The Battle of Hunayn & Siege of Ta'if](notes/note-037.md) · 2026-03-27 17:51
 - [The Battle of Khaybar](notes/note-031.md) · 2026-03-27 17:49
 - [The Battle of Mu'tah](notes/note-033.md) · 2026-03-27 17:49
 - [The Battle of the Trench](notes/note-029.md) · 2026-03-27 17:49
 - [The Battle of Uhud](notes/note-028.md) · 2026-03-27 17:49
 - [The Conquest of Mecca (Fatah Makkah)](notes/note-035.md) · 2026-03-27 17:49
+- [The Day of Ta'if & the Road to Hijra](notes/note-038.md) · 2026-03-27 17:51
 - [The Kaaba, Mecca, and Its Historical and Religious Significance](notes/note-036.md) · 2026-03-27 17:49
 - [The Quran's Greatest Prophecy — Rome vs Persia](notes/note-034.md) · 2026-03-27 17:49
 - [The Story of Abraha](notes/note-026.md) · 2026-03-27 17:49
@@ -47,11 +49,6 @@
 ## Personal (1)
 
 - [Life Goals & 5-Year Plan](notes/note-025.md) · 2026-03-22 19:41
-
-## Battle (2)
-
-- [The Battle of Hunayn & Siege of Ta'if](notes/note-037.md) · 2026-03-27
-- [The Day of Ta'if & the Road to Hijra](notes/note-038.md) · 2026-03-27
 
 ## Others (1)
 
