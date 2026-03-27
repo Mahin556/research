@@ -1,6 +1,6 @@
 ---
 title: Taraweeh ki Namaz
-category: Namaz
+category: Islam
 tags: [Namaz, Islam]
 ---
 

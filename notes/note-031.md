@@ -1,6 +1,6 @@
 ---
 title: The Battle of Khaybar
-category: Battle
+category: Islam
 tags: [Islam, Battle, Islam]
 ---
 

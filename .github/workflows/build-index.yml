@@ -32,10 +32,13 @@ jobs:
           NOTE_PATTERN = re.compile(r"^note-\d{3}\.md$")
 
           CATEGORY_ORDER = [
-            "Seerah", "Quran", "Namaz", "Duas", "Eschatology",
-            "History", "Others", "Fitness", "Strategies", "Personal"
+              "Islam",
+              "History",
+              "Places",
+              "Fitness",
+              "Personal",
+              "Inbox"
           ]
-
           def git_last_modified(filepath):
             result = subprocess.run(
               ["git", "log", "-1", "--format=%ai", "--", filepath],
@@ -43,7 +46,7 @@ jobs:
             )
             raw = result.stdout.strip()
             from datetime import datetime
-            return raw[:16] if raw else datetime.utcnow().strftime("%Y-%m-%d %H:%M")
+            return raw[:16] if raw else datetime.utcnow().strftime("%Y-%m-%d")
 
           def parse_frontmatter(filepath):
             with open(filepath, encoding="utf-8", errors="ignore") as f:
@@ -140,7 +143,7 @@ jobs:
             lines.append("")
 
           if no_frontmatter:
-            lines.append("## Unfiled")
+            lines.append("## Inbox")
             lines.append("")
             lines.append("> Add frontmatter to categorize these notes.")
             lines.append("")

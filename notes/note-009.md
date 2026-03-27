@@ -1,6 +1,6 @@
 ---
 title: Surah Al-Ikhlas (112)
-category: Quran
+category: Islam
 tags: [Quran, Islam]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The Battle of Badr
-category: Battle
+category: Islam
 tags: [Islam, Battle, Islam]
 ---
 

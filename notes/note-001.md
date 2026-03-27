@@ -1,6 +1,6 @@
 ---
 title: Eid Ki Namaz Ka Tareeka
-category: Namaz
+category: Islam
 tags: [Namaz, Islam]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Surah Al-Masad (111)
-category: Quran
+category: Islam
 tags: [Quran, Islam]
 ---
 

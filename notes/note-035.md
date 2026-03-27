@@ -1,6 +1,6 @@
 ---
 title: The Conquest of Mecca (Fatah Makkah)
-category: Battle
+category: Islam
 tags: [Battle, Islam]
 ---
 

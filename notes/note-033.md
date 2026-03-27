@@ -1,6 +1,6 @@
 ---
 title: The Battle of Mu'tah
-category: Battle
+category: Islam
 tags: [Battle, Islam]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Surah Al-Fil (105)
-category: Quran
+category: Islam
 tags: [Quran, Islam]
 ---
 

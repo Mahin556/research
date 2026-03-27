@@ -1,6 +1,6 @@
 ---
 title: Surah Al-Kawthar (108)
-category: Quran
+category: Islam
 tags: [Quran, Islam]
 ---
 

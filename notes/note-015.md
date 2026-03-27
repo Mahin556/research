@@ -1,6 +1,6 @@
 ---
 title: Isha ki Namaz
-category: Namaz
+category: Islam
 tags: [Namaz, Islam]
 ---
 

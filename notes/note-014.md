@@ -1,3 +1,11 @@
+---
+title: Asar Namaz
+category: Islam
+tags: [Namaz, Islam]
+---
+
+---
+
 ## What is Asr?
 - **Asr** is the **third daily prayer** in Islam.
 - It is offered in the **late afternoon**.

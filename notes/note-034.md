@@ -1,6 +1,6 @@
 ---
 title: The Quran's Greatest Prophecy — Rome vs Persia
-category: Battle
+category: Islam
 tags: [Battle, Islam]
 ---
 

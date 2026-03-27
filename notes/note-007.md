@@ -1,6 +1,6 @@
 ---
 title: Surah An-Nasr (110)
-category: Quran
+category: Islam
 tags: [Quran, Islam]
 ---
 

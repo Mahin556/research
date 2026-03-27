@@ -1,6 +1,6 @@
 ---
 title: Surah Quraysh (106)
-category: Quran
+category: Islam
 tags: [Quran, Islam]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The Kaaba, Mecca, and Its Historical and Religious Significance
-category: Religious History
+category: Islam
 tags: [Religious History, Islam]
 ---
 

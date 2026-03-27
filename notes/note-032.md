@@ -1,6 +1,6 @@
 ---
 title: Why Were Jews in Medina?
-category: Battle
+category: Islam
 tags: [Battle, Islam]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Surah An-Naas (114)
-category: Quran
+category: Islam
 tags: [Quran, Islam]
 ---
 

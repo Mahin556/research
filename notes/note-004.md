@@ -1,6 +1,6 @@
 ---
 title: Surah Al-Ma'un (107)
-category: Quran
+category: Islam
 tags: [Quran, Islam]
 ---
 

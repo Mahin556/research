@@ -1,6 +1,6 @@
 ---
 title: Janaze ki Namaz
-category: Namaz
+category: Islam
 tags: [Namaz, Islam]
 ---
 

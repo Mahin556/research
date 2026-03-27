@@ -1,6 +1,6 @@
 ---
 title: Surah Al-Falaq (113)
-category: Quran
+category: Islam
 tags: [Quran, Islam]
 ---
 

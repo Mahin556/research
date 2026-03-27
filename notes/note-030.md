@@ -1,6 +1,6 @@
 ---
 title: The Treaty of Hudaybiyyah & Dawah to the World
-category: Battle
+category: Islam
 tags: [Islam, Battle, Islam]
 ---
 
