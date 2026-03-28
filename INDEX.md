@@ -1,11 +1,11 @@
 # Research Notes
 
-> Last updated: 2026-03-27 12:21 UTC
-> 37 notes indexed
+> Last updated: 2026-03-28 03:20 UTC
+> 38 notes indexed
 
 ---
 
-## Islam (32)
+## Islam (33)
 
 - [Asar Namaz](notes/note-014.md) · 2026-03-27 17:49
 - [Eid Ki Namaz Ka Tareeka](notes/note-001.md) · 2026-03-27 17:49
@@ -14,6 +14,7 @@
 - [Janaze ki Namaz](notes/note-016.md) · 2026-03-27 17:49
 - [Jummah ki Namaz](notes/note-017.md) · 2026-03-27 17:49
 - [Maghrib ki Namaz](notes/note-018.md) · 2026-03-27 17:49
+- [Nikah](notes/note-039.md) · 2026-03-28
 - [Surah Al-Falaq (113)](notes/note-010.md) · 2026-03-27 17:49
 - [Surah Al-Fil (105)](notes/note-002.md) · 2026-03-27 17:49
 - [Surah Al-Ikhlas (112)](notes/note-009.md) · 2026-03-27 17:49
