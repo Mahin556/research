@@ -1,6 +1,6 @@
 # Research Notes
 
-> Last updated: 2026-03-29 17:29 UTC
+> Last updated: 2026-03-29 17:31 UTC
 > 48 notes indexed
 
 ---
@@ -10,7 +10,7 @@
 - [Asar Namaz](notes/note-014.md) · 2026-03-27 17:49
 - [Eid Ki Namaz Ka Tareeka](notes/note-001.md) · 2026-03-27 17:49
 - [Fazar Namaz](notes/note-013.md) · 2026-03-27 17:49
-- [Hazrat Ibrahim علیہ السلام](notes/note-049.md) · 2026-03-29
+- [Hazrat Ibrahim علیہ السلام](notes/note-049.md) · 2026-03-29 23:01
 - [Isha ki Namaz](notes/note-015.md) · 2026-03-27 17:49
 - [Isra wal Miraj — The Night Journey & Ascension to the Heavens](notes/note-041.md) · 2026-03-28 04:46
 - [Janaze ki Namaz](notes/note-016.md) · 2026-03-27 17:49
