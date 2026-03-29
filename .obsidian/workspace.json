@@ -30,9 +30,43 @@
               "icon": "lucide-file",
               "title": "haashiyah"
             }
+          },
+          {
+            "id": "cc85f3a1d5602481",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f2f1137c2af9e590",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-29 14.52.12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-29 14.52.12.excalidraw"
+            }
+          },
+          {
+            "id": "729eb95df857434d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-29 14.53.09.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-29 14.53.09.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8d826476ea049380",
@@ -193,8 +228,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c25adffc70f17021",
+  "active": "729eb95df857434d",
   "lastOpenFiles": [
+    "notes/image-2.png",
+    "notes/image-1.png",
+    "notes/image.png",
+    "Excalidraw/Drawing 2026-03-29 14.52.12.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-29 14.53.09.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-29 14.50.42.excalidraw.md",
+    "Excalidraw",
     "Excalidraw/Drawing 2026-03-21 20.40.56.excalidraw.md",
     "haashiyah.md",
     "notes/Goals.md",

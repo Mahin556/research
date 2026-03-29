@@ -82,6 +82,7 @@ Abu Sufyan went door to door in Medina begging for help — and was turned away 
   - Not the location
   - Not the target
 - Even the companions only knew preparations were happening — not where they were going
+- Abu bakar ask his siste ayesah even she doesn't know
 
 ### The Deception Strategy
 - To confuse Meccan spies, the Prophet ﷺ sent a **small decoy force** toward the **Roman Empire** (not Mecca)

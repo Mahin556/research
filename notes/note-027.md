@@ -24,7 +24,7 @@ tags: [Islam, Battle, Islam]
 ### Abu Sufyan's Caravan
 - **Abu Sufyan** — one of the most powerful leaders of Mecca — was leading a **massive trade caravan** returning from Syria (Sham) to Mecca
 - The caravan contained:
-  - **500 gold coins** (an enormous amount at the time)
+  - **50000 gold coins** (an enormous amount at the time)
   - **All kinds of valuable goods and merchandise**
 - Crucially, **much of this wealth was originally looted from the Muslims of Mecca**
 - So the Muslims weren't planning a robbery — they were planning to **reclaim what was rightfully theirs**
@@ -58,6 +58,10 @@ tags: [Islam, Battle, Islam]
 | How many Muslims are there? | Around 300-313 men | "We'll bring 1,000!" |
 | How many horses do they have? | About 2 horses | "We'll bring 100 horses!" |
 | How many camels do they have? | About 70 camels | "We'll bring even more!" |
+
+### Revelation
+
+The Prophet received a revelation (divine message) from Allah regarding the army of Mecca. Allah gave him two options: either they could attack Abu Sufyan’s caravan or face the Meccan army in battle. Allah promised them that in one of these scenarios, they would certainly achieve victory. The Prophet and his companions chose to fight the Meccan army instead of attacking Abu Sufyan’s caravan.
 
 ### Abu Jahl's Fatal Mistake
 - When news arrived that **Abu Sufyan's caravan had safely escaped** via the alternate route — meaning there was **no longer any need for war** — Abu Jahl **refused to turn back**

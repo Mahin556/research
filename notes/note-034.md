@@ -54,7 +54,7 @@ tags: [Battle, Islam]
 - He launched a **full-scale invasion** at the perfect moment
 - Within years, Persia captured Rome's most important territories:
   - **Syria**
-  - **Palestine (including Jerusalem)**
+  - **Palestine (including Jerusalem) with the help of jews**
   - **Egypt**
 
 ---
@@ -132,6 +132,7 @@ At this precise moment, Allah revealed **Surah Ar-Rum (Chapter 30)**, saying:
 ## ⚔️ Part 5: Heraclius's Miraculous Comeback
 
 ### The Surprise Strategy
+- Khusro said that they needed to accept his religion in order to survive. However, Heraclius went to Europe to seek help from the Pope, explaining that the Persians were not merely against him, but against Christianity itself. The Pope collected funds and sent them to Heraclius.
 - With European funds, Heraclius assembled a **new army**
 - Instead of attacking the Persians where they were strong — in their conquered Roman territories — he devised a brilliant plan:
 - He sailed around to the **northern side** of the Persian Empire and launched a **complete surprise attack** directly into Persia's heartland
@@ -183,6 +184,16 @@ The Quran's prophecy was **doubly fulfilled**:
 ---
 
 ## 🌍 Part 7: The Ironic Final Chapter
+
+The Persians were surrounded on all sides. When no hope remained, the son of Khusro, along with his eighteen brothers, had their heads cut off and were presented before the Roman Emperor. In this war, the Roman Emperor promised to return all the losses he had suffered, and he withdrew his entire army from the Persian Emperor's territory. In other words, the Persian Empire was decisively defeated.
+
+The Roman Emperor brought back the cross that the Persians had taken from Jerusalem, and he placed it in its original location.
+
+In the same year, the historic treaty of Hudaybiyyah was made between the Muslims and the Meccans. This treaty changed the destiny of the Muslims forever. The Quran regarded it as a great victory.
+
+By then, the Roman Emperor had become the most powerful ruler in the world. However, just a few years after the Treaty of Hudaybiyyah, the Prophet Muhammad (peace be upon him) wrote a letter to him, inviting him to Islam. The Roman Emperor did not accept.
+
+Within the next few years, the Muslims conquered almost the entire Roman Empire, and not only the Roman Empire but also the Persian Empire. To this day, no one has been able to reclaim those regions from the Muslims.
 
 ### Heraclius — The Man Who Almost Accepted Islam
 - After his miraculous victory, Heraclius was now the **most powerful ruler on Earth**

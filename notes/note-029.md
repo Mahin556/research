@@ -53,13 +53,13 @@ Salman pointed out something crucial about Medina's layout:
 ## Part 3: Building the Trench — An Extraordinary Achievement
 
 ### The Scale of the Task
-Each group of companions was assigned **120 feet of trench to dig**
+Each group of 10 companions was assigned **120 feet of trench to dig**
 
 To understand how big 120 feet is:
 > Picture a **Toyota Corolla** car. Now stack **5 Corollas end to end** — that is 120 feet
 
 The total trench dug:
-> **6 kilometers long** — equivalent to **36 cricket stadiums placed in a line**
+> **6 kilometers long and 22 meter wide** — equivalent to **36 cricket stadiums placed in a line**
 > A total of **6,560 Corolla cars** could fit inside the length of this trench
 
 ### The Conditions They Dug In
@@ -105,7 +105,7 @@ The companions standing there were **stunned** — they thought:
 
 ### The One Breach
 - Eventually, a group of Meccans got so frustrated they found a narrow point and **managed to cross the trench**
-- This group included Abu Jahl's son
+- This group included Abu Jahl's son(ikrema)
 - **Hazrat Ali** stepped forward, fought their leader, and **killed him**
 - The rest **fled back across the trench**
 - It was beginning to look like the Muslims were winning — but Abu Sufyan had a secret plan...

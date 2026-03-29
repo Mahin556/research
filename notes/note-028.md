@@ -45,7 +45,7 @@ The Meccan army of 3,000 was organized as follows:
 
 ## Part 3: Betrayal Before the Battle Even Starts
 
-### Abdullah bin Ubayy — The Great Hypocrite
+### Abdullah bin Ubayy — The Great Hypocrite(munafik)
 - When the 1,000 Muslim soldiers reached the plains near **Mount Uhud**, something devastating happened
 - **Abdullah bin Ubayy** — described as the biggest **Munafiq (hypocrite)** in Medina — suddenly announced:
   > *"We are not going to fight. This is suicide."*
@@ -65,7 +65,7 @@ The Meccan army of 3,000 was organized as follows:
 - The army marched out toward **Mount Uhud**
 
 ### Dividing the Army
-- The Prophet ﷺ divided the 700 soldiers into **three groups**
+- The Prophet ﷺ divided the 700 soldiers into **three groups**(muhajreen, osh, khjerj)
 - Equipment available was very limited:
   - Only **100 soldiers** had proper body armor and shields
   - Only **50 horses** were available
@@ -125,7 +125,7 @@ The Meccan army of 3,000 was organized as follows:
 
 ### Heavy Casualties
 - Many companions were **martyred** in the confusion
-- The most devastating loss: **Hazrat Hamza** — the Prophet's ﷺ beloved uncle and one of Islam's greatest warriors — was **martyred** by an Abyssinian slave named Wahshi
+- The most devastating loss: **Hazrat Hamza** — the Prophet's ﷺ beloved uncle and one of Islam's greatest warriors — was **martyred** by an Abyssinian(habshi) slave named Wahshi
 
 ### The Rumor That Shook Everything
 - In the chaos of the battle, a **devastating rumor spread**:

@@ -44,7 +44,7 @@ tags: [Islam, Battle, Islam]
 - This was the same family that would later:
   - Rule over Muslims for almost **100 years**
   - Establish the **Umayyad Empire** — the largest centralized Muslim empire in history
-  - Produce the most powerful Muslim ruler who governed the **largest landmass** in Islamic history
+  - Produce the most powerful Muslim ruler who governed the **largest landmass** in Islamic history **walid bin abdul malik**
 
 ---
 
@@ -57,7 +57,8 @@ tags: [Islam, Battle, Islam]
 
 ### Why This Was Extremely Serious
 - In the customs of that time, **killing an ambassador was equivalent to a declaration of war**
-- This rumor meant Mecca had declared all-out war
+- This rumor meant Mecca had declared all-out war.
+- Even in the UN charter it is the one of the biggest crime.
 
 ### Bayat-e-Rizwan — The Oath Under the Tree
 - All companions gathered urgently
@@ -98,7 +99,7 @@ Despite enormous tension and confusion, a peace treaty was signed — known as t
 - But the Prophet ﷺ **overruled everyone's opinions** and signed the treaty
 
 ### The Moment That Tested the Agreement
-- As the treaty was being signed, the Meccan representative's **own son** arrived — having fled Mecca and accepted Islam
+- As the treaty was being signed, the Meccan representative's **own son**(abu jandal) arrived — having fled Mecca and accepted Islam
 - The son **begged with tears**: *"Please don't send me back to those oppressors!"*
 - The Prophet ﷺ was **visibly saddened** but **sent him back** — honoring the treaty
 - Many more people came afterward — all were **returned to Mecca** per the agreement
