@@ -32,7 +32,7 @@ Despite understanding, they remained stubborn in their disbelief and decided to 
 ## The Miracle of the Fire
 
 The people gathered a huge amount of wood over many days and set it on fire. When the fire was blazing fiercely, they tied Ibrahim (AS) with ropes and threw him into the fire. At that moment, he prayed, *"Hasbun Allah wa ni'mal wakeel"* (Allah is sufficient for me, and He is the best Disposer of affairs).
-![alt text](image.png)
+![alt text](/images/image-3.png)
 Allah commanded the fire, "O fire, be cool and safe for Ibrahim." When Ibrahim (AS) was thrown in, the fire became cool. The fire did not burn his clothes or any part of his body; it only burned the ropes that had tied him. The people stood around expecting to see him burn, but instead, they saw him sitting gracefully in the middle of the fire. They were astonished. After witnessing this great miracle, only **Lut (AS)** believed. The rest of the people of Babylon remained in disbelief.
 After this incedent idrahim was disappointed with them.
 ---
@@ -91,7 +91,7 @@ Hajra, amazed and overjoyed, began digging around the water to prevent it from s
 
 This water became their source of food and drink. Soon, a migrating tribe searching for water arrived. They asked Hajra's permission to camp there. She agreed on the condition that they pay rent. They readily agreed, and so settlement began in Makkah. This was the result of Ibrahim's prayer when he had left his family there: "O our Lord, I have settled some of my offspring in a barren valley near Your Sacred House so that they may establish prayer. Make the hearts of people incline toward them and provide them with fruits."
 
-![alt text](image-1.png)
+![alt text](/images/image-1.png)
 
 Ibrahim would visit his family once or twice a year. When Ismail grew up, another trial came.
 
@@ -117,7 +117,7 @@ As a reward for Ibrahim's willingness to sacrifice his son, and for Sara's virtu
 
 Ibrahim (AS) would visit Ismail in Makkah. On one occasion, he said, "O my son, Allah has commanded me to build His House at this place." Ismail replied, "I am ready." Together, they raised the foundations of the Kaaba. While building, they prayed, "Our Lord, accept from us. You are the All-Hearing, All-Knowing. Make us both submissive to You, and from our descendants raise a community that submits to You. Show us our rites of worship and accept our repentance. Our Lord, send among them a Messenger from themselves who will recite Your verses to them, teach them the Book and wisdom, and purify them."
 
-![alt text](image-2.png)
+![alt text](/images/image-2.png)
 
 During construction, Allah sent a stone from Paradise called the **Hajr-e-Aswad** (Black Stone). It was originally pure white but has turned black due to people's sins. Ibrahim (AS) stood on a stone while building; he was barefoot, and the stone melted under his feet, leaving his footprints. That stone is known as **Maqam-e-Ibrahim** and can still be seen today.
 
