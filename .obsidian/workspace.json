@@ -64,9 +64,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-03-29 14.53.09.excalidraw"
             }
+          },
+          {
+            "id": "74dbad7f229d3dab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-04 08.32.35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-04 08.32.35.excalidraw"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -228,8 +240,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "729eb95df857434d",
+  "active": "74dbad7f229d3dab",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-03-29 14.53.09.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-04 08.32.35.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-02 11.26.02.excalidraw.md",
     "images/image-3.png",
     "notes/image-3.png",
     "images/image-2.png",
@@ -239,7 +254,6 @@
     "notes/image-1.png",
     "notes/image.png",
     "Excalidraw/Drawing 2026-03-29 14.52.12.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-29 14.53.09.excalidraw.md",
     "Excalidraw/Drawing 2026-03-29 14.50.42.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2026-03-21 20.40.56.excalidraw.md",
