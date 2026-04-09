@@ -1,18 +1,18 @@
 # Research Notes
 
-> Last updated: 2026-04-05 10:38 UTC
-> 52 notes indexed
+> Last updated: 2026-04-09 03:18 UTC
+> 53 notes indexed
 
 ---
 
 ## Islam (47)
 
-- [All Sons of Nuh (AS)](notes/note-051.md) · 2026-04-05
+- [All Sons of Nuh (AS)](notes/note-051.md) · 2026-04-05 10:38
 - [Asar Namaz](notes/note-014.md) · 2026-03-27 17:49
 - [Eid Ki Namaz Ka Tareeka](notes/note-001.md) · 2026-03-27 17:49
 - [Fazar Namaz](notes/note-013.md) · 2026-03-27 17:49
 - [Hazrat Ibrahim علیہ السلام](notes/note-049.md) · 2026-03-29 23:01
-- [Ibrahim (AS) Ne Apni Qaum Ko Kya Kaha — Poori Dawat](notes/note-053.md) · 2026-04-05
+- [Ibrahim (AS) Ne Apni Qaum Ko Kya Kaha — Poori Dawat](notes/note-053.md) · 2026-04-05 10:38
 - [Isha ki Namaz](notes/note-015.md) · 2026-03-27 17:49
 - [Isra wal Miraj — The Night Journey & Ascension to the Heavens](notes/note-041.md) · 2026-03-28 04:46
 - [Janaze ki Namaz](notes/note-016.md) · 2026-03-27 17:49
@@ -47,11 +47,11 @@
 - [The Riddah Wars & Abu Bakr's ؓ Khilafat](notes/note-047.md) · 2026-03-29 03:15
 - [The Signs of Qiyamah — The Hadith of Jibreel & the Bedouin Prophecy](notes/note-046.md) · 2026-03-29 03:15
 - [The Story of Abraha](notes/note-026.md) · 2026-03-27 17:49
-- [The Story of Namrood — The World's First Tyrant](notes/note-052.md) · 2026-04-05
+- [The Story of Namrood — The World's First Tyrant](notes/note-052.md) · 2026-04-05 10:38
 - [The Treaty of Hudaybiyyah & Dawah to the World](notes/note-030.md) · 2026-03-29 22:58
 - [The Universe Worships Allah — Science & Tawaf](notes/note-042.md) · 2026-03-28 04:46
 - [Why do we recite loudly in Fajr, Maghrib, and Isha (first two rak'as), but silently in Dhuhr and Asr?](notes/note-040.md) · 2026-03-28 03:52
-- [Why Muslim Celebrate Eid ul-Adha?](notes/note-050.md) · 2026-04-05
+- [Why Muslim Celebrate Eid ul-Adha?](notes/note-050.md) · 2026-04-05 10:38
 - [Why Were Jews in Medina?](notes/note-032.md) · 2026-03-27 17:49
 - [Zohar ki Namaz](notes/note-020.md) · 2026-03-27 17:49
 
@@ -64,6 +64,10 @@
 ## Personal (1)
 
 - [Life Goals & 5-Year Plan](notes/note-025.md) · 2026-03-22 19:41
+
+## Corporate (1)
+
+- [Salary](notes/note-054.md) · 2026-04-09
 
 ## Others (1)
 
