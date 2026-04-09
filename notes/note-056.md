@@ -1,12 +1,10 @@
 ---
-title: 21 tips for succeeding at your job,
+title: 10 things you should NEVER share at your workplace
 category: Corporate
 tags: [Corporate]
 ---
 
 ---
-
-Here are the **10 things you should NEVER share at your workplace**, especially as a fresher:
 
 **1. Your Salary**
 Sharing it invites jealousy, comparison, and resentment. If asked, just say: *"I'm happy with my package and focused on growth."*
