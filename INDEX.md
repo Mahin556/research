@@ -1,7 +1,7 @@
 # Research Notes
 
-> Last updated: 2026-04-09 03:18 UTC
-> 53 notes indexed
+> Last updated: 2026-04-09 03:55 UTC
+> 55 notes indexed
 
 ---
 
@@ -65,9 +65,11 @@
 
 - [Life Goals & 5-Year Plan](notes/note-025.md) · 2026-03-22 19:41
 
-## Corporate (1)
+## Corporate (3)
 
-- [Salary](notes/note-054.md) · 2026-04-09
+- [21 tips for succeeding at your job,](notes/note-055.md) · 2026-04-09
+- [21 tips for succeeding at your job,](notes/note-056.md) · 2026-04-09
+- [Salary](notes/note-054.md) · 2026-04-09 03:18
 
 ## Others (1)
 
