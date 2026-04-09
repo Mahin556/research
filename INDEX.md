@@ -1,6 +1,6 @@
 # Research Notes
 
-> Last updated: 2026-04-09 03:55 UTC
+> Last updated: 2026-04-09 03:56 UTC
 > 55 notes indexed
 
 ---
@@ -67,8 +67,8 @@
 
 ## Corporate (3)
 
-- [21 tips for succeeding at your job,](notes/note-055.md) · 2026-04-09
-- [21 tips for succeeding at your job,](notes/note-056.md) · 2026-04-09
+- [10 things you should NEVER share at your workplace](notes/note-056.md) · 2026-04-09 09:25
+- [21 tips for succeeding at your job,](notes/note-055.md) · 2026-04-09 03:55
 - [Salary](notes/note-054.md) · 2026-04-09 03:18
 
 ## Others (1)
