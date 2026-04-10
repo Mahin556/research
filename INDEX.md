@@ -1,6 +1,6 @@
 # Research Notes
 
-> Last updated: 2026-04-09 03:56 UTC
+> Last updated: 2026-04-10 12:04 UTC
 > 55 notes indexed
 
 ---
@@ -67,8 +67,8 @@
 
 ## Corporate (3)
 
-- [10 things you should NEVER share at your workplace](notes/note-056.md) · 2026-04-09 09:25
-- [21 tips for succeeding at your job,](notes/note-055.md) · 2026-04-09 03:55
+- [10 things you should NEVER share at your workplace](notes/note-056.md) · 2026-04-10 17:33
+- [21 tips for succeeding at your job,](notes/note-055.md) · 2026-04-10 17:33
 - [Salary](notes/note-054.md) · 2026-04-09 03:18
 
 ## Others (1)
