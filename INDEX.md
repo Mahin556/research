@@ -1,11 +1,11 @@
 # Research Notes
 
-> Last updated: 2026-04-10 12:04 UTC
-> 55 notes indexed
+> Last updated: 2026-04-12 08:01 UTC
+> 59 notes indexed
 
 ---
 
-## Islam (47)
+## Islam (51)
 
 - [All Sons of Nuh (AS)](notes/note-051.md) · 2026-04-05 10:38
 - [Asar Namaz](notes/note-014.md) · 2026-03-27 17:49
@@ -17,6 +17,7 @@
 - [Isra wal Miraj — The Night Journey & Ascension to the Heavens](notes/note-041.md) · 2026-03-28 04:46
 - [Janaze ki Namaz](notes/note-016.md) · 2026-03-27 17:49
 - [Jummah ki Namaz](notes/note-017.md) · 2026-03-27 17:49
+- [Khalid bin Walid — The Greatest General in History](notes/note-060.md) · 2026-04-12
 - [Maghrib ki Namaz](notes/note-018.md) · 2026-03-27 17:49
 - [Nikah](notes/note-039.md) · 2026-03-28 03:20
 - [Surah Al-Falaq (113)](notes/note-010.md) · 2026-03-27 17:49
@@ -38,9 +39,12 @@
 - [The Battle of the Trench](notes/note-029.md) · 2026-03-29 22:58
 - [The Battle of Uhud](notes/note-028.md) · 2026-03-29 22:58
 - [The Battle of Yamama & the Compilation of the Quran](notes/note-048.md) · 2026-03-29 03:15
+- [The Compilation of the Quran](notes/note-057.md) · 2026-04-12
+- [The Complete Muslim Conquest of the Persian Empire](notes/note-058.md) · 2026-04-12
 - [The Conquest of Mecca (Fatah Makkah)](notes/note-035.md) · 2026-03-29 22:58
 - [The Day of Ta'if & the Road to Hijra](notes/note-038.md) · 2026-03-27 17:51
 - [The Final Days of the Prophet ﷺ & the First Khalifa](notes/note-045.md) · 2026-03-29 03:15
+- [The First Islamic Conquests — Islam Goes Global](notes/note-059.md) · 2026-04-12
 - [The Hijra — The Most Important Migration in History](notes/note-043.md) · 2026-03-29 03:15
 - [The Kaaba, Mecca, and Its Historical and Religious Significance](notes/note-036.md) · 2026-03-27 17:49
 - [The Quran's Greatest Prophecy — Rome vs Persia](notes/note-034.md) · 2026-03-29 22:58
@@ -68,7 +72,7 @@
 ## Corporate (3)
 
 - [10 things you should NEVER share at your workplace](notes/note-056.md) · 2026-04-10 17:33
-- [21 tips for succeeding at your job,](notes/note-055.md) · 2026-04-10 17:33
+- [21 tips for succeeding at your job,](notes/note-055.md) · 2026-04-12 13:30
 - [Salary](notes/note-054.md) · 2026-04-09 03:18
 
 ## Others (1)
