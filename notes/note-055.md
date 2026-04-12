@@ -7,14 +7,25 @@ tags: [Corporate]
 ---
 
 1. **Observe everything carefully**
-  * Notice how things work, how people talk and behave. 
-  * This helps you understand the company culture. 
-  * You can't fight culture; you can only adapt to it.
-  * Who speaks directly vs. indirectly — some people say things clearly while others hint or beat around the bush, noticing this tells you how confident or political someone is
-  * Open posture, crossed arms, eye contact, nervous habits — body language often reveals what words hide, someone smiling but with crossed arms may not be as comfortable as they seem
-  * How people address seniors, who gets heard in meetings — notice if people use formal titles or first names, and whose opinions are taken seriously vs. ignored
-  * Who lunches together, who chats at the coffee machine — informal groupings reveal real relationships and alliances that don't show on any org chart
-  * Tight deadlines showing in tone, pace, and facial expressions — stress changes how people communicate, short replies, faster walking, and tense faces are all signals
+
+  * Understand peoples behaviour.
+
+  * How people greet each other --> Good morning, afternoon, evening, night etc...
+ 
+  * Adopt the culture not fight it.
+ 
+  * Identify who speaks directly vs. indirectly --> Identify political and non-political persion.
+ 
+  * Notice posture, crossed arms, eye contact, nervous habits --> Tell confidence, attitude.
+ 
+  * How people call each other and how they call seniors --> In meetings and all.
+ 
+  * Friend circle --> Who lunches together, who chats at the coffee machine.
+ 
+  * Notice people behaviour on deadlines --> tone, pace, stress, short replies, faster walking, and tense faces, and facial expressions.
+
+  * 
+
   * Formal vs. informal language in emails, meetings, and casual chats — someone who writes stiff emails but talks casually in person is adapting to perceived expectations
   * Industry-specific jargon and buzzwords that signal belonging — people use certain words to sound knowledgeable or to fit in with the group culture
   * Who interrupts whom — interrupting is rarely accidental, it often shows who feels more powerful or less patient in a conversation
@@ -33,6 +44,9 @@ tags: [Corporate]
   * Whose ideas get credited in meetings — notice if people build on others' ideas without giving credit, this reveals integrity and politics at play
   * Who is CC'd on important emails — being included or excluded from email chains shows who is trusted, informed, and considered relevant
   * Who gets interrupted and who gets listened to — the people who rarely get cut off usually hold real influence, whether or not their title says so
+
+
+
 
 2. **Don't wait for feedback — ask for it** — The longer you wait, the less you improve. Ask for feedback even if it feels uncomfortable, because most people won't volunteer it unless you directly ask. A simple "what could I have done better?" after a task or meeting can open doors to insights you would never get on your own. The discomfort of asking lasts a second, but the growth from the answer lasts much longer.
 
