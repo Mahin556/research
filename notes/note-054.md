@@ -615,3 +615,346 @@ Even after all this, if extra TDS was deducted, you can get a **refund** by fili
 | NPS 80CCD(1B) — ₹50,000 | ~₹15,600 |
 | **Total tax recovered per year** | **~₹97,200** |
 | **Extra in-hand per month** | **~₹8,100/mo** |
+
+---
+
+Here is the **correct and updated explanation (as per latest Indian labour laws 2025–2026)**. Your image is based on an **old salary structure**, so I’ll fix it and explain the *real current system* clearly.
+
+---
+
+# ✅ 1. Biggest Change (VERY IMPORTANT)
+
+👉 Under new labour laws (**Code on Wages + Social Security Code**):
+
+* **Basic Salary + DA must be ≥ 50% of total salary (CTC)**
+* Earlier: companies kept basic at 30–40%
+* Now: minimum **50% compulsory**
+
+📌 If allowances exceed 50%, extra is added back to wages
+📌 This increases PF, gratuity, etc. ([mint][1])
+
+---
+
+# ✅ 2. Correct Salary Structure (Updated)
+
+### ✔️ CTC (Cost to Company)
+
+* Total employer cost
+* Includes:
+
+  * Gross salary
+  * Employer PF
+  * Gratuity
+  * Bonus (if applicable)
+
+---
+
+### ✔️ Gross Salary
+
+* Fixed salary before deductions
+* Includes:
+
+  * Basic (≥ 50% now)
+  * HRA
+  * Allowances
+
+---
+
+### ✔️ Net Salary (In-hand)
+
+* What you receive
+* **Net = Gross – Deductions**
+
+---
+
+# ✅ 3. Updated Components (Correct Values)
+
+## 🔹 (A) Employee Deductions
+
+* **PF (EPF)**
+
+  * 12% of Basic
+  * ✔️ Same rate (no change)
+
+* **ESI (if applicable)**
+
+  * Employee: **0.75% of gross**
+  * Only if salary ≤ ₹21,000/month ([Labour][2])
+
+* **Professional Tax**
+
+  * ₹0–₹200/month (state-based)
+
+* **Income Tax (TDS)**
+
+  * Based on slab (new/old regime)
+
+---
+
+## 🔹 (B) Employer Contributions (Hidden Cost)
+
+* **PF (Employer)**
+
+  * 12% of Basic
+  * Split:
+
+    * 8.33% → EPS (Pension)
+    * 3.67% → EPF
+
+* **Gratuity**
+
+  * Formula:
+
+  👉
+  [
+  Gratuity = \frac{15}{26} \times Last\ Basic \times Years\ of\ Service
+  ]
+
+* **Bonus**
+
+  * Minimum 8.33% (if eligible)
+
+---
+
+# ✅ 4. Correct Example (Updated Structure)
+
+Let’s fix your example properly:
+
+### 👉 Monthly CTC = ₹10,000
+
+---
+
+## ✔️ Step 1: Apply 50% Rule
+
+* **Basic (minimum 50%) = ₹5,000**
+* Remaining ₹5,000 = HRA + Allowances
+
+---
+
+## ✔️ Step 2: Gross Salary
+
+* Basic = ₹5,000
+* HRA + Allowances = ₹5,000
+
+👉 **Gross = ₹10,000 (before employer deductions separation)**
+
+---
+
+## ✔️ Step 3: Employee Deductions
+
+* PF (12% of 5,000) = ₹600
+* ESI (0.75%) = ₹75 *(if applicable)*
+* Professional tax ≈ ₹100
+
+👉 Total deductions ≈ ₹775
+
+---
+
+## ✔️ Step 4: In-hand Salary
+
+👉 **Net = ₹10,000 – ₹775 = ₹9,225**
+
+---
+
+## ✔️ Step 5: Employer Cost (CTC split)
+
+* Employer PF = ₹600
+* Gratuity ≈ ₹240 (approx 4.81%)
+
+👉 Employer extra ≈ ₹840
+
+---
+
+# ✅ 5. What Changed vs Your Image
+
+| Component      | Your Image ❌ | Latest Law ✅                   |
+| -------------- | ------------ | ------------------------------ |
+| Basic Salary   | 30–40%       | **Minimum 50% mandatory**      |
+| PF Base        | Low          | **Higher (because basic ↑)**   |
+| Gratuity       | Lower        | **Higher (based on new wage)** |
+| In-hand Salary | Higher       | **Slightly lower**             |
+| Structure      | Flexible     | **Strict wage definition**     |
+
+---
+
+# ✅ 6. Real Impact (VERY IMPORTANT)
+
+* ✔️ PF contribution **increases**
+* ✔️ Gratuity **increases**
+* ❌ Take-home salary **decreases slightly**
+* ✔️ Long-term savings **increase**
+
+👉 Because PF + gratuity are calculated on **higher basic salary** ([AMpuesto][3])
+
+---
+
+# ✅ 7. Final Simple Flow (Updated Reality)
+
+* Company says: ₹10,000 (CTC)
+* Your basic: ₹5,000 (minimum now)
+* You get: ~₹9,000 (after deductions)
+* Rest goes to: PF + benefits
+
+---
+
+# ✅ 8. Important Practical Insight (For You)
+
+* Always ask in interviews:
+
+  * **“What is basic %?” (should be ≥ 50%)**
+  * **“What is in-hand salary?”**
+  * **“Is PF on full basic or capped at ₹15,000?”**
+
+---
+
+If you want, I can:
+
+* Calculate your **exact in-hand for 5 LPA / 10 LPA / 12 LPA**
+* Or show **real company salary slips (TCS, Infosys type)**
+
+[1]: https://www.livemint.com/money/personal-finance/new-salary-rules-in-india-what-the-50-wage-norm-means-for-epf-gratuity-and-take-home-pay-11775526270823.html?utm_source=chatgpt.com "New salary rules in India: What the 50% wage norm means ..."
+[2]: https://www.labour.gov.in/static/uploads/2026/03/a4ccf4c6d97c4f1f36a6d83f8c64213d.pdf?utm_source=chatgpt.com "Additional FAQs on Labour Codes (As on 16.03.2026)"
+[3]: https://ampuesto.in/blog/old-vs-new-labour-law-rules/?utm_source=chatgpt.com "Old vs New Labour Law Rules: PF, ESI & Gratuity Explained"
+
+
+---
+
+Alright — let’s calculate a **realistic, updated 12 LPA salary structure (India 2025–26 rules)** step by step.
+
+---
+
+# ✅ 12 LPA Breakdown (Latest Structure)
+
+👉 **Annual CTC = ₹12,00,000**
+👉 Monthly CTC = ₹1,00,000
+
+---
+
+# ✅ Step 1: Apply 50% Rule (VERY IMPORTANT)
+
+* **Basic Salary (≥ 50%) = ₹50,000/month**
+* Remaining ₹50,000 = HRA + Allowances
+
+---
+
+# ✅ Step 2: Salary Structure (Monthly)
+
+### ✔️ Earnings
+
+* Basic = ₹50,000
+* HRA (40% of basic typical) = ₹20,000
+* Special Allowance = ₹30,000
+
+👉 **Gross Salary = ₹1,00,000**
+
+---
+
+# ✅ Step 3: Employee Deductions
+
+### ✔️ PF (Important concept)
+
+👉 Two cases:
+
+### 🔹 Case 1: PF capped (MOST COMMON in companies)
+
+* PF = **12% of ₹15,000 = ₹1,800**
+
+---
+
+### 🔹 Case 2: PF on full basic (less common but better long-term)
+
+* PF = **12% of ₹50,000 = ₹6,000**
+
+---
+
+### ✔️ Other Deductions
+
+* Professional Tax ≈ ₹200
+* Income Tax (new regime approx) ≈ ₹8,000–₹12,000/month
+
+---
+
+# ✅ Step 4: In-hand Salary
+
+## 🔹 Case 1 (PF capped – most realistic)
+
+* Gross = ₹1,00,000
+* PF = ₹1,800
+* PT = ₹200
+* Tax ≈ ₹10,000
+
+👉 **In-hand ≈ ₹88,000/month**
+
+---
+
+## 🔹 Case 2 (PF on full basic)
+
+* PF = ₹6,000
+* Other same
+
+👉 **In-hand ≈ ₹83,800/month**
+
+---
+
+# ✅ Step 5: Employer Contributions (Hidden)
+
+* Employer PF = ₹1,800 or ₹6,000
+* Gratuity ≈ ₹2,400/month
+
+👉 ~₹4,000–₹8,500/month hidden cost
+
+---
+
+# ✅ Final Reality (IMPORTANT)
+
+| Type     | Amount      |
+| -------- | ----------- |
+| CTC      | ₹1,00,000   |
+| Gross    | ₹1,00,000   |
+| In-hand  | ₹83K – ₹88K |
+| PF Saved | ₹1.8K – ₹6K |
+| Tax      | ₹8K – ₹12K  |
+
+---
+
+# ✅ Key Insights (VERY IMPORTANT FOR YOU)
+
+* Most companies use **PF capped at ₹15K**
+* So real in-hand is closer to **₹85K–₹90K**
+* Higher PF = lower in-hand but better savings
+* Tax depends on:
+
+  * New vs Old regime
+  * Investments
+
+---
+
+# ✅ Simple Understanding
+
+* Company says: **12 LPA**
+* You actually get: **~₹85K/month**
+* Rest goes into:
+
+  * Tax
+  * PF
+  * Gratuity
+
+---
+
+# ✅ Pro Tip (DevOps / IT Jobs)
+
+When you get an offer, ALWAYS ask:
+
+* “Is PF capped or on full basic?”
+* “What is monthly in-hand after tax?”
+* “Any variable pay included in CTC?”
+
+---
+
+If you want, next I can:
+
+* Show **real company offer letter breakdown (like TCS / startup / product-based)**
+* Or optimize your salary to **maximize in-hand vs savings**
+
+---
+

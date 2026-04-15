@@ -45,12 +45,14 @@
             "id": "729eb95df857434d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-29 14.53.09.excalidraw.md"
+                "file": "leave.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-29 14.53.09.excalidraw"
+              "icon": "lucide-file",
+              "title": "leave"
             }
           },
           {
@@ -59,14 +61,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-04 08.32.35.excalidraw.md"
+                "file": "Excalidraw/Drawing 2026-03-29 14.50.42.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-04 08.32.35.excalidraw"
+              "title": "Drawing 2026-03-29 14.50.42.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,10 +229,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c25adffc70f17021",
+  "active": "74dbad7f229d3dab",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-03-29 14.53.09.excalidraw.md",
     "Excalidraw/Drawing 2026-04-04 08.32.35.excalidraw.md",
+    "leave.md",
+    "Exercise.md",
+    "haashiyah.md",
+    "INDEX.md",
+    "nafl.md",
+    "niyat.md",
+    "open-end-question.md",
+    "polytheism.md",
+    "quotes.md",
+    "quran.md",
+    "reading-mindset.md",
+    "README.md",
+    "self-talk.md",
+    "The-Scariest-Level-of-Discipline-You’ve-Ever-Seen.md",
+    "verse.md",
+    "Excalidraw/Drawing 2026-03-29 14.50.42.excalidraw.md",
     "Excalidraw/Drawing 2026-04-02 11.26.02.excalidraw.md",
     "images/image-3.png",
     "notes/image-3.png",
@@ -241,25 +259,9 @@
     "notes/image-1.png",
     "notes/image.png",
     "Excalidraw/Drawing 2026-03-29 14.52.12.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-29 14.50.42.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2026-03-21 20.40.56.excalidraw.md",
-    "haashiyah.md",
     "notes/Goals.md",
-    "Excalidraw/Drawing 2026-03-08 15.24.20.excalidraw.md",
-    "INDEX.md",
-    "leave.md",
-    "nafl.md",
-    "niyat.md",
-    "open-end-question.md",
-    "polytheism.md",
-    "README.md",
-    "quotes.md",
-    "quran.md",
-    "reading-mindset.md",
-    "verse.md",
-    "self-talk.md",
-    "The-Scariest-Level-of-Discipline-You’ve-Ever-Seen.md",
-    "Exercise.md"
+    "Excalidraw/Drawing 2026-03-08 15.24.20.excalidraw.md"
   ]
 }
