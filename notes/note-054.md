@@ -5,47 +5,38 @@ tags: [Battle, Islam]
 ---
 
 ---
----
 
-# How Your Salary Is Structured — From Offer Letter to Bank Account
-
----
-
-## 1. CTC — Cost to Company
-
-The **total amount a company spends on you** per year. This is the big number on your offer letter — but it is NOT what lands in your bank account.
+### CTC --> Cost to company
+* The **total amount a company spends on you** per year. 
+* This is the big number on your offer letter — but it is NOT what lands in your bank account.
+* The most common mistake: assuming CTC ÷ 12 = monthly take-home. It never does.
 
 ```
-CTC = In-hand salary + PF + Gratuity + Health insurance + Training costs + All allowances
-```
-
-> ⚠️ The most common mistake: assuming CTC ÷ 12 = monthly take-home. It never does.
-
----
-
-## 2. Gross Salary
-
-Your salary **before any deductions** (tax, PF, etc.) are applied.
-
-```
-Gross Salary = Basic + HRA + All Allowances
+CTC = In-Hand + PF(Employee + Employer) + Gratuity + Health insurance + Training costs + HRA + All allowances
 ```
 
 ---
 
-## 3. Basic Salary
+### Gross Salary
+
+Your salary **before any deductions** (tax, PF(Employee), etc.) are applied.
+```
+Gross Salary = Basic(In-Hand) + EPF + HRA + All Allowances
+```
+
+---
+
+### Basic Salary
 
 The **core component** of your pay. No exemptions apply here — it is **100% taxable**.
-
 - Usually 40–50% of CTC
 - PF and Gratuity are both calculated on Basic
 - A lower Basic means more room for tax-saving allowances
-
-> 💡 Lower Basic → more allowances → less tax overall.
+- Lower Basic → more allowances → less tax overall.
 
 ---
 
-## 4. HRA — House Rent Allowance
+### HRA — House Rent Allowance
 
 Given to cover rent expenses. If you **actually pay rent**, a portion is tax-exempt.
 
@@ -59,13 +50,13 @@ Given to cover rent expenses. If you **actually pay rent**, a portion is tax-exe
 
 ---
 
-## 5. Medical Allowance
+### Medical Allowance
 
 Previously ₹15,000/year was tax-free. It is now merged into the **Standard Deduction**, but some companies still show it separately on the salary slip.
 
 ---
 
-## 6. Special Allowances
+### Special Allowances
 
 Companies split part of your salary into specific allowance buckets. When you submit actual bills for these, **that amount is not taxed**.
 
@@ -82,22 +73,46 @@ Companies split part of your salary into specific allowance buckets. When you su
 
 ---
 
-## 7. Provident Fund (PF)
-
-A **government-mandated retirement savings** scheme shared between you and your employer.
-
+### Provident Fund (PF)
+- A **government-mandated retirement savings** scheme shared between you and your employer.
 ```
 Your contribution       = 12% of Basic
 Employer's contribution = 12% of Basic (matched)
-  └─ 8.33% → EPS (pension)
+  └─ 8.33% → EPS (Employee Pension Scheme)
   └─ 3.67% → Your PF account
 ```
-
-- Returns are excellent (~8%+ per year, government-backed)
+- Returns are excellent (~8%+ per year decided by govt, government-backed)
 - Can be withdrawn 3 months after leaving a company
 - Deducted before salary hits your bank — automatic saving
+- Your PF account = your 12% + employer’s 3.67%
+- Pension (EPS) = separate benefit for retirement
+- PF Withdrawal Rules
+  * ✔ Full Withdrawal
+    * After retirement (age 58)
+    * Or unemployed for 2+ months
+  * ✔ Partial Withdrawal (allowed for specific needs)
+    * Medical emergency
+    * Buying/building house
+    * Marriage
+    * Education
+- PF is EEE (Exempt-Exempt-Exempt):
+  * Contribution → tax-free (under 80C)
+  * Interest → tax-free
+  * Withdrawal → tax-free (after 5 years)
+- UAN (Universal Account Number) links all PF accounts
+- If you switch jobs → PF can be transferred
+- PF = Forced saving + Employer bonus + Safe growth
 
-> 💡 Think of PF as forced, high-return savings you can't accidentally spend.
+---
+
+### EPS
+- You get monthly pension after retirement.
+- EPS = Future pension income
+- Your pension under EPS (Employee Pension Scheme) is:
+  ![alt text](/images/image11.png)
+- Pensionable salary (EPS cap) = ₹15,000/month (important rule)
+- Even if your basic is ₹1,00,000, EPS only considers ₹15,000
+- Pension directly proportional to Service years
 
 ---
 
