@@ -46,7 +46,7 @@ the Lord of Mercy, the Giver of Mercy,
 ---
 
 The Opener (1:4) 
-![](Pasted%20image%2020260416165849.png)
+![](/images/Pasted%20image%2020260416165849.png)
 
 Master of the Day of Judgment.
 (Dr. Mustafa Khattab, The Clear Quran)
