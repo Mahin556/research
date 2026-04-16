@@ -33,6 +33,7 @@ All praise is for Allah—Lord of all worlds,
 The Opener (1:3) 
 
 ![](/images/Pasted%20image%2020260416165628.png)
+
 the Most Compassionate, Most Merciful,
 (Dr. Mustafa Khattab, The Clear Quran)
 
@@ -92,6 +93,7 @@ Guide us to the straight path:
 The Opener (1:7) 
 
 ![](/images/Pasted%20image%2020260416170328.png)
+
 the Path of those You have blessed—not those You are displeased with, or those who are astray. 
 (Dr. Mustafa Khattab, The Clear Quran)
 
