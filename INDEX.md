@@ -92,6 +92,10 @@
 
 ## Inbox
 
+## Sahih-Al-Bukhari
+
+[1](/sahih-al-bukhari/1.md) - [2](/sahih-al-bukhari/2.md) -
+
 > Add frontmatter to categorize these notes.
 
 - [notes/note-012.md](notes/note-012.md)
