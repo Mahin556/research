@@ -7,7 +7,7 @@ tags: [Quran, Islam]
 ---
 
 The Opener (1:1) 
-![](/images/Pasted image 20260416164333.png)
+![](/images/Pasted%20image%2020260416164333.png)
 In the Name of Allah—the Most Compassionate, Most Merciful.
 — Dr. Mustafa Khattab, The Clear Quran
 
