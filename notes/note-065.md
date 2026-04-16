@@ -46,6 +46,7 @@ the Lord of Mercy, the Giver of Mercy,
 ---
 
 The Opener (1:4) 
+
 ![](/images/Pasted%20image%2020260416165849.png)
 
 Master of the Day of Judgment.
