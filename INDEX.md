@@ -81,6 +81,7 @@
 - [Salary](/corporate/1.md) 
 - [21 tips for succeeding at your job,](/corporate/2.md)
 - [10 things you should NEVER share at your workplace](/corporate/3.md)
+- [Tak Deduction on salary](/corporate/4.md)
 
 ## English (1)
 
