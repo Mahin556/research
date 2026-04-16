@@ -1,11 +1,11 @@
 # Research Notes
 
-> Last updated: 2026-04-15 12:00 UTC
-> 62 notes indexed
+> Last updated: 2026-04-16 11:14 UTC
+> 64 notes indexed
 
 ---
 
-## Islam (53)
+## Islam (54)
 
 - [Abu Bakr as-Siddiq ؓ](notes/note-061.md) · 2026-04-12 09:11
 - [All Sons of Nuh (AS)](notes/note-051.md) · 2026-04-05 10:38
@@ -21,8 +21,9 @@
 - [Khalid bin Walid — The Greatest General in History](notes/note-060.md) · 2026-04-12 08:01
 - [Maghrib ki Namaz](notes/note-018.md) · 2026-03-27 17:49
 - [Nikah](notes/note-039.md) · 2026-03-28 03:20
-- [Shirk](notes/note-063.md) · 2026-04-15
+- [Shirk](notes/note-063.md) · 2026-04-15 12:00
 - [Surah Al-Falaq (113)](notes/note-010.md) · 2026-03-27 17:49
+- [Surah Al-Fatiha (105)](notes/note-065.md) · 2026-04-16
 - [Surah Al-Fil (105)](notes/note-002.md) · 2026-03-27 17:49
 - [Surah Al-Ikhlas (112)](notes/note-009.md) · 2026-03-27 17:49
 - [Surah Al-Kafirun (109)](notes/note-006.md) · 2026-03-27 17:49
@@ -71,15 +72,19 @@
 
 - [Life Goals & 5-Year Plan](notes/note-025.md) · 2026-03-22 19:41
 
+## Clarity (1)
+
+- [Life](notes/note-064.md) · 2026-04-16
+
 ## Corporate (3)
 
 - [10 things you should NEVER share at your workplace](notes/note-056.md) · 2026-04-10 17:33
 - [21 tips for succeeding at your job,](notes/note-055.md) · 2026-04-12 13:30
-- [Salary](notes/note-054.md) · 2026-04-15 17:30
+- [Salary](notes/note-054.md) · 2026-04-16 16:44
 
 ## English (1)
 
-- [English Sentences Patters](notes/note-062.md) · 2026-04-15
+- [English Sentences Patters](notes/note-062.md) · 2026-04-16 16:44
 
 ## Others (1)
 
