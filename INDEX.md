@@ -78,9 +78,9 @@
 
 ## Corporate (3)
 
-- [10 things you should NEVER share at your workplace](notes/note-056.md) · 2026-04-10 17:33
-- [21 tips for succeeding at your job,](notes/note-055.md) · 2026-04-12 13:30
-- [Salary](notes/note-054.md) · 2026-04-16 16:44
+- [Salary](/corporate/1.md) 
+- [21 tips for succeeding at your job,](/corporate/2.md)
+- [10 things you should NEVER share at your workplace](/corporate/3.md)
 
 ## English (1)
 
