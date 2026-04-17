@@ -74,7 +74,7 @@
 
 ## Clarity (1)
 
-- [Life](notes/note-064.md) · 2026-04-16 11:14
+- [Life](/clarity/life.md) · 2026-04-16 11:14
 
 ## Corporate (3)
 
@@ -85,7 +85,7 @@
 
 ## English (1)
 
-- [English Sentences Patters](notes/note-062.md) · 2026-04-16 16:44
+- [English Sentences Patters](/english/1.md) · 2026-04-16 16:44
 
 ## Others (1)
 
@@ -96,6 +96,13 @@
 ## Sahih-Al-Bukhari
 
 [1](/sahih-al-bukhari/1.md) - [2](/sahih-al-bukhari/2.md) -
+
+## Sunan-Ibn-Majah
+
+[1](/Sunan-Ibn-Majah/1.md) - [2](/Sunan-Ibn-Majah/2.md) - 
+
+## Sunan-an-Nasa
+[1](/Sunan-an-Nasa/1.md) - [2](/Sunan-an-Nasa/2.md)
 
 > Add frontmatter to categorize these notes.
 
