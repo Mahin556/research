@@ -94,11 +94,9 @@
 ## Inbox
 
 ## Sahih-Al-Bukhari
-
 [1](/sahih-al-bukhari/1.md) - [2](/sahih-al-bukhari/2.md) -
 
 ## Sunan-Ibn-Majah
-
 [1](/Sunan-Ibn-Majah/1.md) - [2](/Sunan-Ibn-Majah/2.md) - 
 
 ## Sunan-an-Nasa
