@@ -1,11 +1,9 @@
 # Research Notes
 
-> Last updated: 2026-04-16 11:37 UTC
-> 64 notes indexed
-
+---
 ---
 
-## Islam (54)
+### Islam (54)
 
 - [Abu Bakr as-Siddiq ؓ](notes/note-061.md) · 2026-04-12 09:11
 - [All Sons of Nuh (AS)](notes/note-051.md) · 2026-04-05 10:38
@@ -62,54 +60,85 @@
 - [Why Were Jews in Medina?](notes/note-032.md) · 2026-03-27 17:49
 - [Zohar ki Namaz](notes/note-020.md) · 2026-03-27 17:49
 
-## Fitness (3)
+---
+---
 
+### Fitness (3)
 - [Abs Exercises](notes/note-023.md) · 2026-03-21 17:57
 - [Back Exercises](notes/note-024.md) · 2026-03-21 09:19
 - [Chest Exercises](notes/note-022.md) · 2026-03-21 08:48
 
-## Personal (1)
+---
+---
 
+### Personal (1)
 - [Life Goals & 5-Year Plan](notes/note-025.md) · 2026-03-22 19:41
 
-## Clarity (1)
+---
+---
 
+### Clarity (1)
 - [Life](/clarity/life.md) · 2026-04-16 11:14
 
-## Corporate (3)
+---
+---
 
+### Corporate (3)
 - [Salary](/corporate/1.md) 
 - [21 tips for succeeding at your job,](/corporate/2.md)
 - [10 things you should NEVER share at your workplace](/corporate/3.md)
 - [Tak Deduction on salary](/corporate/4.md)
 
-## English (1)
+---
+---
 
+### English (1)
 - [English Sentences Patters](/english/1.md) · 2026-04-16 16:44
 
-## Others (1)
+---
+---
 
+### Others (1)
 - [Monotheism](notes/note-021.md) · 2026-03-20 18:25
 
-## Inbox
+---
+---
 
-## Sahih-Al-Bukhari
+### Sahih-Al-Bukhari
 [1](/sahih-al-bukhari/1.md) - [2](/sahih-al-bukhari/2.md) -
 
-## Sunan-Ibn-Majah
+---
+---
+
+### Sunan-Ibn-Majah
 [1](/Sunan-Ibn-Majah/1.md) - [2](/Sunan-Ibn-Majah/2.md) - 
 
-## Sunan-an-Nasa
+---
+---
+
+### Sunan-an-Nasa
 [1](/Sunan-an-Nasa/1.md) - [2](/Sunan-an-Nasa/2.md)
 
-## Sunan-Abu-Dawud
+---
+---
+
+### Sunan-Abu-Dawud
 [1](/Sunan-Abu-Dawud/1.md) - [2](/Sunan-Abu-Dawud/2.md)
 
-## Silsila-Ahadees-e-Sahiha
+---
+---
+
+### Silsila-Ahadees-e-Sahiha
 [1](/Silsila-Ahadees-e-Sahiha/1.md) - [2](/Silsila-Ahadees-e-Sahiha/2.md)
 
-## Saheeh_Muslim
+---
+---
+
+### Saheeh_Muslim
 [1](/Saheeh_Muslim/1.md) - 
+
+---
+---
 
 > Add frontmatter to categorize these notes.
 
