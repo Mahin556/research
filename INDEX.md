@@ -63,6 +63,12 @@
 ---
 ---
 
+### PROPHETS
+- [Nuh](/prophets/nuh.md)
+
+---
+---
+
 ### Fitness (3)
 - [Abs Exercises](notes/note-023.md) · 2026-03-21 17:57
 - [Back Exercises](notes/note-024.md) · 2026-03-21 09:19
