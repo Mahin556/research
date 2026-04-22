@@ -105,7 +105,7 @@
 ---
 
 ### Sahih-Al-Bukhari
-[1](/sahih-al-bukhari/1.md) - [2](/sahih-al-bukhari/2.md) - [3](/sahih-al-bukhari/3.md) - [4](/sahih-al-bukhari/4.md) - [5](/sahih-al-bukhari/5.md) - [6](/sahih-al-bukhari/6.md) - [7](/sahih-al-bukhari/7.md) - [8](/sahih-al-bukhari/8.md) - [9](/sahih-al-bukhari/9.md) - [10](/sahih-al-bukhari/10.md) - [11](/sahih-al-bukhari/11.md) - [12](/sahih-al-bukhari/12.md) - [13](/sahih-al-bukhari/13.md) - [14](/sahih-al-bukhari/14.md) - [15](/sahih-al-bukhari/15.md) - [16](/sahih-al-bukhari/16.md) - [17](/sahih-al-bukhari/17.md) - [18](/sahih-al-bukhari/18.md) - [19](/sahih-al-bukhari/19.md) - [20](/sahih-al-bukhari/20.md) - 
+[1](/sahih-al-bukhari/1.md) - [2](/sahih-al-bukhari/2.md) - [3](/sahih-al-bukhari/3.md) - [4](/sahih-al-bukhari/4.md) - [5](/sahih-al-bukhari/5.md) - [6](/sahih-al-bukhari/6.md) - [7](/sahih-al-bukhari/7.md) - [8](/sahih-al-bukhari/8.md) - [9](/sahih-al-bukhari/9.md) - [10](/sahih-al-bukhari/10.md) - [11](/sahih-al-bukhari/11.md) - [12](/sahih-al-bukhari/12.md) - [13](/sahih-al-bukhari/13.md) - [14](/sahih-al-bukhari/14.md) - [15](/sahih-al-bukhari/15.md) - [16](/sahih-al-bukhari/16.md) - [17](/sahih-al-bukhari/17.md) - [18](/sahih-al-bukhari/18.md) - [19](/sahih-al-bukhari/19.md) - [20](/sahih-al-bukhari/20.md) - [21](/sahih-al-bukhari/21.md) - [22](/sahih-al-bukhari/22.md) - [23](/sahih-al-bukhari/23.md) - [24](/sahih-al-bukhari/24.md) - [25](/sahih-al-bukhari/25.md) - [26](/sahih-al-bukhari/26.md) - [27](/sahih-al-bukhari/27.md) - [28](/sahih-al-bukhari/28.md) - [29](/sahih-al-bukhari/29.md) - [30](/sahih-al-bukhari/30.md)
 
 ---
 ---
