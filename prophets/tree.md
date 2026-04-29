@@ -1,5 +1,6 @@
 # The 25 Prophets Mentioned in the Quran — Complete Guide
 
+![alt text](image.png)
 ---
 
 ## 1️⃣ Adam ﷺ — The First Human & First Prophet
