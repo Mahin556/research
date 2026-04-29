@@ -6,7 +6,7 @@
 | Thursday  | Push (Volume)     | HIIT Run – 20 min      | Chest, Shoulders, Triceps | Forearms, Kegel     | 500–550 kcal |
 | Friday    | Pull + Core (Vol) | Steady Run – 25 min    | Back, Biceps, Abs         | Kegel, Neck             | 500–550 kcal |
 | Saturday  | Legs (Volume)     | HIIT Run – 20 min      | Legs, Calves, Abs         | Kegel, Neck               | 550–650 kcal |
-| Sunday    | Recovery          | Walk – 30 min          | Full Body (Light)         | Stretching, Kegel   | 150–200 kcal |
+| Sunday    | Recovery          | Walk – 60 min          | Full Body (Light)         | Stretching, Kegel   | 300–400 kcal |
 
 ### HIIT Protocol
 
