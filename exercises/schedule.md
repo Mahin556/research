@@ -1,12 +1,12 @@
 | Day       | Focus Type        | Cardio                 | Muscle Groups             | Extras              | Est. Burn    |
 | --------- | ----------------- | ---------------------- | ------------------------- | ------------------- | ------------ |
-| Monday    | Push (Heavy)      | HIIT Run – 20 min      | Chest, Shoulders, Triceps | Kegel               | 500–550 kcal |
-| Tuesday   | Pull (Heavy)      | Steady Run – 30 min    | Back, Biceps, Forearms    | Core (light), Kegel | 500–550 kcal |
+| Monday    | Push (Heavy)      | HIIT Run – 20 min      | Chest, Shoulders, Triceps, Core | Kegel               | 500–550 kcal |
+| Tuesday   | Pull (Heavy)      | Steady Run – 30 min    | Back, Biceps, Forearms, Core    |  Kegel | 500–550 kcal |
 | Wednesday | Legs (Heavy)      | Walk – 40 min          | Legs, Abs, Calves         |  Neck, Kegel        | 550–600 kcal |
 | Thursday  | Push (Volume)     | HIIT Run – 20 min      | Chest, Shoulders, Triceps | Forearms, Kegel     | 500–550 kcal |
-| Friday    | Pull + Core (Vol) | Steady Run – 25 min    | Back, Biceps, Abs         | Kegel, Neck             | 500–550 kcal |
-| Saturday  | Legs (Volume)     | HIIT Run – 20 min      | Legs, Calves, Abs         | Kegel, Neck               | 550–650 kcal |
-| Sunday    | Recovery          | Walk – 60 min          | Full Body (Light)         | Stretching, Kegel   | 300–400 kcal |
+| Friday    | Pull + Core (Vol) | Steady Run – 25 min    | Back, Biceps, Core         | Kegel, Neck             | 500–550 kcal |
+| Saturday  | Legs (Volume)     | HIIT Run – 20 min      | Legs, Calves, Core         | Kegel, Neck               | 550–650 kcal |
+| Sunday    | Recovery          | Walk – 60 min          | Full Body (Light), Core         | Stretching, Kegel   | 300–400 kcal |
 
 ### HIIT Protocol
 
